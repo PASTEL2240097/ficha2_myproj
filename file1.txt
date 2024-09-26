@@ -1,4 +1,0 @@
-DEFAULT EDITION
-edit number 
-alterações feitas no  branch nova feature
-1
