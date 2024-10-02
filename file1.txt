@@ -1,2 +1,3 @@
 
 Alterações feitas ao branch NovaFeature para os exercicios da ficha 3.
+Isto é para os exercicios da ficha ficha3 de resolução de conflitos em branches.
