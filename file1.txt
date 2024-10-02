@@ -1,7 +1,1 @@
-			eliminei tudo 
-
-			vou agora escrever algo
-
-			como
-
-			Eu gosto de batatas
+Isto é para os exercicios da ficha ficha3 de resolução de conflitos em branches.
